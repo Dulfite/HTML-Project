@@ -1,0 +1,29 @@
+body {
+    margin: 8px;
+    display: block;
+    padding: 25px;
+    background-color:bisque;
+    text-align: left;
+}
+
+#mainHeading {
+    color: red;
+}
+
+p {
+    font-size: 17px;
+    color:darkslategrey;
+    text-align: left;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.image {
+    text-align: left;
+} */
+
+#article {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
